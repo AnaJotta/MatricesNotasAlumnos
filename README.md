@@ -38,7 +38,7 @@ MatricesNotasAlumnos/<br>
 
 ## 📺 Tutorial de Todocode
 
-Este proyecto fue inspirado por el tutorial de Todocode, donde se explica cómo trabajar con matrices en Java. Puedes ver el video aquí: [Tutorial de Matrices en Java - Todocode](https://www.youtube.com/watch?v=EjemploDeVideo).
+Este proyecto fue inspirado por el tutorial de Todocode, donde se explica cómo trabajar con matrices en Java. Puedes ver el video aquí: [Tutorial de Matrices en Java - Todocode](https://www.youtube.com/watch?v=QnXOZkPfxG8&list=PLQxX2eiEaqbz1XaUb1s0iQdd5ijpIoc1O&index=6).
 
 ---
 
