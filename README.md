@@ -42,7 +42,7 @@ Este proyecto fue inspirado por el tutorial de Todocode, donde se explica cómo 
 
 ---
 
-## 💬 Contribuciones
+## 👏 Contribuciones
 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
